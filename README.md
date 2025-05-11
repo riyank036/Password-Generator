@@ -14,9 +14,13 @@ A password generator web application built with React and Tailwind CSS. Create s
 - **Responsive Design**: Works beautifully on all devices
 - **Local Processing**: All passwords are generated locally, never transmitted or stored
 
+## GitHub repo
+
+[View Code](https://github.com/riyank036/Password-Generator.git)
+
 ## Live Demo
 
-[View Live Demo](https://your-demo-link.netlify.app)
+[View Live Demo](https://password-generator-036.netlify.app/)
 
 ## Technologies Used
 
